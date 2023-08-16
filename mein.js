@@ -1,7 +1,7 @@
 let name  = window.prompt("enter your name");
 let age = window.prompt("enter your age");
 
-if (age <= 18 || name =="ibrahim"){
+if (age >= 18 || name =="ibrahim"){
       alert("welcome back ibrahim");
 }
 else{
